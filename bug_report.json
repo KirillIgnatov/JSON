@@ -1,1 +1,13 @@
+{
+  "title": "Date in "Calendario Economico" not translated on selected language",
+  "steps": 
+  {
+     "1": "Navigate to capital.com",
+     "2": "Choice language  except EN",
+     "3": "Scroll down to block Calendario Economico"
+  },
+  "expected result": "Date in Calendario Economico  translated on  selected  language",
+  "actual result": "Date in Calendario Economico not translated  on selected  language"
+}
+
 
